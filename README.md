@@ -3,7 +3,8 @@
 A small 3D glass playground. Pick a shape, choose a lighting preset, and adjust
 how the glass bends light, all rendered live in the browser.
 
-**Live:** https://prism-lab-bhagyesh.vercel.app *(replace if your URL differs)*
+**Live:** https://prism-lab-bhagyesh.vercel.app  
+**Code:** https://github.com/bhagyeshhole75-cpu/prism-lab
 
 Built by Bhagyesh Hole (first-year Computer Science, VIT Pune) for the AWS Student
 Builder Group pre-interview task.
@@ -48,6 +49,8 @@ prism-lab/
 ## Run it locally
 Requires Node.js 20 or newer.
 ```bash
+git clone https://github.com/bhagyeshhole75-cpu/prism-lab.git
+cd prism-lab
 npm install
 npm run dev
 ```
